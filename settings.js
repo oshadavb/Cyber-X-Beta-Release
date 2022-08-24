@@ -19,7 +19,7 @@ global.APIKeys = {
 
 global.autoTyping = false //auto tying in gc (true to on, false to off)
 global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
-global.autoReadGc = false //auto reading in gc (true to on, false to off)
+global.autoReadGc = true //auto reading in gc (true to on, false to off)
 global.autobio = false  // auto bio system checking on Developing Leval
 global.autoRecord = false //auto recording (true to on, false to off)
 global.available = true //auto available (true to on, false to off)
@@ -36,24 +36,24 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //OWNER CONTACT
-global.vcardowner = ['94711421243'] //ur owner number
-global.ownername = "ᴋɪɴɢ ᴅᴀʀᴋ ᴀʟᴘʜᴀ" //ur owner name
-global.ytname = "YT: TGM Arcade" //ur yt chanel name
-global.socialm = "GitHub: darkalphaxteam" //ur github or insta name
-global.location = "Sri Lanka, Kurunagala, Nikaweratiya" //ur location
+global.vcardowner = ['94761036291'] //ur owner number
+global.ownername = "Dinu Baby BoT" //ur owner name
+global.ytname = "Whatsapp Grup" //ur yt chanel name
+global.socialm = "https://wa.me/+94761036291" //ur github or insta name
+global.location = "Sri Lanka,Rathnapura,Ayagama" //ur location
 
 //BOT COSTOMIZEDTATION
-global.owner = ['94711421243']
-global.ownertag = '9471421243' //ur tag number
-global.botname = 'CYBER-X TEST EDITION' //ur bot name
-global.ig = "https://youtu.be/uzMbW5v9QLE" //your theme url which will be displayed on whatsapp
-global.myweb = "https://youtu.be/uzMbW5v9QLE" //ur website to be displayed
-global.sc = 'https://github.com/darkalphaxteam' //script link
-global.linkz = 'https://youtu.be/uzMbW5v9QLE'
-global.reactmoji = "😘" //ur menu react emoji
+global.owner = ['94761036291']
+global.ownertag = '94761036291' //ur tag number
+global.botname = 'Dinu X BoT EDITION' //ur bot name
+global.ig = "Whatsapp Grup" //your theme url which will be displayed on whatsapp
+global.myweb = "https://wa.me/+94761036291" //ur website to be displayed
+global.sc = 'https://wa.me/+94705261679' //script link
+global.linkz = 'Whatsapp number'
+global.reactmoji = "true" //ur menu react emoji
 global.themeemoji = "🚀" //ur theme emoji
-global.packname = "Cyber-X Test Bot" //ur sticker watermark packname
-global.author = "DARK ALPHA" //ur sticker watermark author
+global.packname = "Dinu BoT" //ur sticker watermark packname
+global.author = "DARK Dinu Officialz" //ur sticker watermark author
 global.aliveimg ="https://telegra.ph/file/71c859102f3625d06204b.jpg"
 global.allmenuimg ="https://telegra.ph/file/4f8a6f14430de2a4f4991.jpg"
 global.welcomeimg= "https://telegra.ph/file/844812c77704231c08a90.jpg"
@@ -67,7 +67,7 @@ global.thumb = fs.readFileSync("./LocalData/theme/cyber.jpg") //ur thumb pic
 
 //DATA BASED
 
-global.premium = ['94711421243'] //ADD YOU NUMBER
+global.premium = ['94761036291'] //ADD YOU NUMBER
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
